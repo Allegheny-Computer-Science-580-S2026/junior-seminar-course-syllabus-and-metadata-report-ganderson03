@@ -4,7 +4,7 @@
 
 A research group member should type their name below.
 
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: `Grant Anderson`
 
 ## Reading Syllabus Pledge
 
