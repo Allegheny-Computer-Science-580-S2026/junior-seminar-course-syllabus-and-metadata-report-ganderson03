@@ -38,7 +38,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/ganderson03/Chatbot-Vulnerability-Benchmarker)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/ganderson03/Graphene-HA)
 
 ### GitHub Repository for Research Data
 
@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-AI Model Safety Benchmarking Tool
+Hybrid analysis escape detection
 ```
 
 ## Research Group Contributions
@@ -71,16 +71,15 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [Provide a link to a GitHub repository's issue tracker]
 
-Example entries:
+- **Researcher Name / Project**: Brennen McWright
+- **Feedback Provided**: Feedback on Chapter 1, giving detailed recommendations on formatting and what content to expand upon.
+- **Impact**: Feedback was at least considered during revisions
+- **Reference**: https://github.com/mrmcwrong/Brennens-Website/issues/1 (issue exists on old his old repo)
 
-- **Student Name One / Machine Learning Bias Detection**: Suggested examining
-  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
-  into her evaluation framework
-- **Student Name Two / Distributed Caching System**: Asked about handling
-  network partitions during demo; led to important discussion about consistency
-  models
-- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
-  real-time performance comparison; Alex added this feature in Week 12
+- **Researcher Name / Project**: Brennen McWright
+- **Feedback Provided**: Feedback on Chapter 2, suggesting specific format recommendations, areas where elaboration could be useful, and areas for further source gathering/research.
+- **Impact**: Feedback was at least considered during revisions
+- **Reference**: https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-mrmcwrong/issues/4
 
 ### Technical Discussions and Problem-Solving
 
@@ -90,8 +89,6 @@ discussions or helped fellow researchers troubleshoot issues:
 - **Discussion Topic / Problem**: [Brief description]
 - **Your Contribution**: [What you shared, suggested, or helped debug]
 - **Outcome**: [How it helped advance the research]
-
-Example entries:
 
 - **Docker Containerization Issues**: Shared my Dockerfile configuration and
   helped three researchers set up their development environments
@@ -109,16 +106,9 @@ Note particularly meaningful contributions during research group meetings:
 - **Contribution**: [Question asked, insight shared, or resource provided]
 - **Value to Group**: [How it benefited the research community]
 
-Example entries:
 
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
+- **Week 11 / Chapter 3 Chart Discussion**: Answered question on what was meant by a "static chart", progressing the group towards the end goal of completing chapter 3's.
+- **Week 11 / Chapter 3 Chart-Board Activity**: Walked through another research team member's dynamic chart on the whiteboard to prove it's clarity, enforcing its potential use as for the researcher themself and as an example for other group members.
 
 ### Research Resources Shared
 
@@ -129,14 +119,6 @@ with the research group that helped advance collective knowledge:
 - **Shared With**: [Individual researcher or entire group]
 - **Purpose**: [Why you shared it and how it was relevant]
 
-Example entries:
-
-- **"Testing in Production" Paper**: Shared with entire group during Week 7;
-  relevant for multiple systems research projects
-- **Plotly Visualization Tutorial**: Shared with four researchers working on
-  data-heavy projects; enabled interactive visualizations
-- **arXiv Paper on Neural Architecture Search**: Shared with Sarah Lee for her
-  AutoML project; became a key reference in her related work chapter
 
 ## Additional Project Information
 
