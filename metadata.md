@@ -42,7 +42,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/ganderson03/graphene-data)
 
 ## Research Project Title
 
@@ -65,47 +65,44 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
-- **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
-
 - **Researcher Name / Project**: Brennen McWright
 - **Feedback Provided**: Feedback on Chapter 1, giving detailed recommendations on formatting and what content to expand upon.
 - **Impact**: Feedback was at least considered during revisions
-- **Reference**: https://github.com/mrmcwrong/Brennens-Website/issues/1 (issue exists on old his old repo)
+- **Reference**: [Brennen feedback issue 1](https://github.com/mrmcwrong/Brennens-Website/issues/1) (issue exists on an older repository)
 
 - **Researcher Name / Project**: Brennen McWright
 - **Feedback Provided**: Feedback on Chapter 2, suggesting specific format recommendations, areas where elaboration could be useful, and areas for further source gathering/research.
 - **Impact**: Feedback was at least considered during revisions
-- **Reference**: https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-mrmcwrong/issues/4
+- **Reference**: [Brennen feedback issue 4](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-mrmcwrong/issues/4)
 
 ### Technical Discussions and Problem-Solving
 
 Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
-
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
+- **Mermaid Workflow Diagram Design**: Helped a colleague improve Mermaid
+  diagrams for their project workflow by clarifying stage boundaries,
+  normalizing arrow direction, and separating static architecture from runtime
+  execution flow.
+- **Your Contribution**: Suggested a layered diagram pattern, reviewed label
+  consistency, and provided concrete revisions for readability and logical
+  sequence.
+- **Outcome**: The revised diagrams became clearer for chapter integration and
+  easier for peers to follow during discussion.
 
 ### Research Group Meeting Participation
 
 Note particularly meaningful contributions during research group meetings:
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
-
+- **Week 2 / Brainstorming Initial Project Idea**: Shared and discussed early
+  project framing around hybrid object-escape analysis feasibility,
+  contributing to scope refinement for the initial pitch.
+- **Week 5 / Outside Research Source Discussion**: Contributed source-finding
+  strategy for related work, including where to locate reliable systems and
+  static-analysis literature and how to evaluate source quality.
+- **Week 9 / Data Collection Method Discussion**: Explained data collection
+  method decisions for benchmark labeling and run aggregation, which helped
+  clarify reproducibility expectations for experimental reporting.
 
 - **Week 11 / Chapter 3 Chart Discussion**: Answered question on what was meant by a "static chart", progressing the group towards the end goal of completing chapter 3's.
 - **Week 11 / Chapter 3 Chart-Board Activity**: Walked through another research team member's dynamic chart on the whiteboard to prove it's clarity, enforcing its potential use as for the researcher themself and as an example for other group members.
@@ -114,11 +111,9 @@ Note particularly meaningful contributions during research group meetings:
 
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
-
 - **Resource**: [Paper title, tool name, tutorial link, etc.]
 - **Shared With**: [Individual researcher or entire group]
 - **Purpose**: [Why you shared it and how it was relevant]
-
 
 ## Additional Project Information
 
